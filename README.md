@@ -2,7 +2,7 @@
 
 Final project for CSCI 570 - Analysis of Algorithms
 
-For the project description, click [here]("contents/CSCI570_Spring_FinalProject.pdf").
+To view the project description, click **[here](contents/CSCI570_Spring_FinalProject.pdf)**.
 
 # Summary
 
