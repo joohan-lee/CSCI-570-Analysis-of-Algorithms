@@ -5,6 +5,7 @@ Final project for CSCI 570 - Analysis of Algorithms
 To view the project description, click **[here](contents/CSCI570_Spring_FinalProject.pdf)**.
 
 # Summary
+We used Dynamic Programming for the basic solution and DP with Divide and Conquer for the memory-efficient solution.
 
 ## Graph1 – Memory vs Problem Size (M+N)
 
